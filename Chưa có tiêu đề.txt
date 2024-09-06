@@ -1,0 +1,5 @@
+getgenv().Team = "Marines"
+getgenv().Fix_Lag = false
+getgenv().Auto_Execute
+getgenv().Clear_Settings = false
+loadstring(game:HttpGet("https://raw.githubusercontent.com/verudous/Xero-Hub/main/main.lua"))()
